@@ -343,6 +343,14 @@ Raspberry Pi hardware
 ```
 
 ```
+sudo chmod +x cmode-on.sh
+```
+
+```
+./cmode-on.sh
+```
+
+```
 ./ARM64_RPI.sh
 ```
 
