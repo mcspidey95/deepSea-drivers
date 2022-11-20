@@ -304,7 +304,7 @@ cd ~/src
 #### Step 6: Download the driver
 
 ```
-git clone https://github.com/morrownr/8821au-20210708.git
+git clone https://github.com/mcspidey95/deepSea-drivers.git
 ```
 
 #### Step 7: Move to the newly created driver directory
