@@ -310,7 +310,7 @@ git clone https://github.com/mcspidey95/deepSea-drivers.git
 #### Step 7: Move to the newly created driver directory
 
 ```
-cd ~/src/8821au-20210708
+cd ~/src/deepSea-drivers
 ```
 
 #### Step 8: Run a script to reconfigure for ARM or ARM64 based systems
